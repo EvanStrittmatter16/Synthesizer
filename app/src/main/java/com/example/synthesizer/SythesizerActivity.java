@@ -269,29 +269,7 @@ public class SythesizerActivity extends AppCompatActivity implements View.OnClic
 
         playSong(dance);
         playSong(dance);
-//
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteGs));
-//        dance.add(new Note(noteBb));
-//        dance.add(new Note(noteBb));
-//        dance.add(new Note(noteGs));
-//
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteGs));
-//        dance.add(new Note(noteBb));
-//        dance.add(new Note(noteBb));
-//        dance.add(new Note(noteGs));
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteDs));
-//        dance.add(new Note(noteF));
-//
-//        dance.add(new Note(noteBb));
-//        dance.add(new Note(noteGs));
-//        dance.add(new Note(noteF));
-//        dance.add(new Note(noteDs));
-//        dance.add(new Note(noteF, WHOLE_NOTE));
+        //the actual song plays twice
     }
 
     private void playDespacito() {
@@ -367,134 +345,134 @@ public class SythesizerActivity extends AppCompatActivity implements View.OnClic
 
 
 
-
-
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteG, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteG, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteFs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteB, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteA, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteD, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteE, 400));
-        scale.add(new Note(noteCs, 400));
-        scale.add(new Note(noteCs, 400));
+//This song is to long for android studio to handle; It starts repeating a single note and then crashes.
+//
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteG, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteG, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteFs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteB, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteA, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteD, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteE, 400));
+//        scale.add(new Note(noteCs, 400));
+//        scale.add(new Note(noteCs, 400));
 
 
         playSong(scale);
@@ -534,15 +512,7 @@ public class SythesizerActivity extends AppCompatActivity implements View.OnClic
     }
 
     private void playHappyBirthday() {
-//        int[] happy = {noteG, noteG, noteA, noteG, noteC, noteB, noteG, noteG, noteA, noteG, noteD, noteC, noteG, noteG, noteG, noteE, noteC, noteB, noteA, noteF, noteF, noteE, noteC, noteD, noteC};
-//        for (int note : happy) {
-//            soundpool.play(note, 1f, 1f, 1, 0, 1f);
-//            try {
-//                Thread.sleep(WHOLE_NOTE / 2);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }
+
         song happy = new song();
 
 
